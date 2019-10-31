@@ -1,0 +1,26 @@
+﻿  Matrix3.cpp
+  Matrix4.cpp
+  Source.cpp
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Generating Code...
+d:\projects\mathslib\maths for games\vector4.cpp(168): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(172): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(176): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(180): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(184): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(188): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(192): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(196): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector4.cpp(200): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(159): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(163): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(167): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(171): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(175): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(179): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(183): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(187): warning C4172: returning address of local variable or temporary
+d:\projects\mathslib\maths for games\vector3.cpp(191): warning C4172: returning address of local variable or temporary
+  Maths For Games.vcxproj -> D:\Projects\MathsLib\Debug\Maths For Games.lib
